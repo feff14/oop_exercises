@@ -1,7 +1,5 @@
 # Java Projekt-Template fuer OOP
 
-[![build status]
-
 ## Zweck
 Dieses Projekt dient in den Modulen OOP, PLAB und AD als Template fuer 
 einfache Java-Projekte.
